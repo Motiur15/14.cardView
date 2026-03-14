@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CardView</string>
+
+    <string name="option1">School</string>
+    <string name="option2">Restaurant</string>
+    <string name="option3">Airport</string>
+
+    <string name="option4">Hospital</string>
+    <string name="option5">Bus Stop</string>
+    <string name="option6">Hotel</string>
+
+</resources>
